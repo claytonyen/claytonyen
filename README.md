@@ -1,8 +1,8 @@
 <h1>Hi, I'm Clayton!
-<h4> I am an aspiring analog IC designer and also very interested in semiconductor electronics.
+<h4> I am an electrical engineering who is very interested in semiconductor electronics and IC design.
 
-  My current projects are various electric guitar pedals to practice and improve my design
-skills and capabilities.
+I am currently working on various electric guitar pedals to practice and improve my design skills and capabilities.
+
 Check it out! </h4>
 
 <h2> 📋 Projects:</h2>
