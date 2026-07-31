@@ -8,7 +8,7 @@ Check it out!
 - <b>Analog Circuit Design</b>
   - [Electra Distortion Electric Guitar Pedal](https://github.com/claytonyen/electra-distortion-pedal)
   - [Chorus Electric Guitar Pedal](https://github.com/claytonyen/chorus-pedal)
-  - [Gated Reverb & Distortion Electric Guitar Pedal](https://github.com/claytonyen/gated-reverb-distortion)
+  - [Reverb Electric Guitar Pedal](https://github.com/claytonyen/reverb-pedal)
 - <b>Python</b>
   - [Resistor Color Code Reader](https://github.com/claytonyen/resistor-code-reader)
 
